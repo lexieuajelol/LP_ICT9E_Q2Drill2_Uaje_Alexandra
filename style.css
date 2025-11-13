@@ -1,0 +1,8 @@
+.container {
+    margin: 50px;
+    max-width: 820px;
+    padding: 40px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
